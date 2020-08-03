@@ -1,0 +1,1 @@
+[Corail Tombstone Issues](https://github.com/Darkhax-Minecraft/Corail-Tombstone/issues)
