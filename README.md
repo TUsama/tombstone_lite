@@ -3,11 +3,11 @@
 ## Open Source
 *Historically closed source, Corail Tombstone is now licensed under LGPL 2.1.*
 ## Maven
-*You can find the Tombstone mod on the [MMD Maven](https://maven.mcmoddev.com/).*
+*You can find the Tombstone mod on the [Jared Maven](https://maven.blamejared.com)*
 ```groovy
 repositories {
     maven {
-        url 'http://maven.mcmoddev.com'
+        url 'https://maven.blamejared.com'
     }
 }
 
