@@ -1,5 +1,5 @@
 {
-  "tombstone.lang.version": "1.4.5",
+  "tombstone.lang.version": "1.4.6",
   "tombstone.grave.grave_simple": "Simple Grave",
   "tombstone.grave.grave_normal": "Normal Grave",
   "tombstone.grave.grave_cross": "Cross Grave",
@@ -526,6 +526,8 @@
   "tombstone.config.time_soul.tooltip": "Time in minutes to check if a soul appears on a grave",
   "tombstone.config.unbreakable_decorative_grave.tooltip": "Sets the decorative graves unbreakable",
   "tombstone.config.tablet_max_use.tooltip": "Maximum uses of a tablet",
+  "tombstone.config.tablet_cooldown.tooltip": "Cooldown in second after using a tablet other than Tablet of Cupidity",
+  "tombstone.config.tablet_of_cupidity_cooldown.tooltip": "Cooldown in second after using a Tablet of Cupidity",
   "tombstone.config.chance_pray_reward.tooltip": "Chance to receive a random beneficial spell effect when praying near a grave",
   "tombstone.config.lost_tablet_search_outside_world.tooltip": "Allows lost tablets to find locations outside the current world",
   "tombstone.config.lost_tablet_modded_structure.tooltip": "Allows lost tablets to find modded structures",
@@ -574,7 +576,6 @@
   "tombstone.config_cat.compatibility.tooltip": "Allows to enable some features related to others mods",
   "tombstone.config.keep_cosmetic_armor.tooltip": "Keeps the cosmetic armor when you die",
   "tombstone.config.allowCurioAutoEquip.tooltip": "Allows to auto-equip the slots from Curio mod",
-  "tombstone.config.disable_disenchantment_for_tetra.tooltip": "Disables to disenchant items from Tetra mod",
   "tombstone.command.tbteleport.default.usage": "This command is for teleportation, you need to select a type of teleport\n/tbteleport <pos, player, grave, death, home, discovery, biome>",
   "tombstone.command.tbteleport.discovery.usage": "Teleports to an unexplored structure\n/tbteleport discovery <entity> [structure] [dim]",
   "tombstone.command.tbteleport.biome.usage": "Teleports to a biome\n/tbteleport biome <entity> [biome] [dim]",

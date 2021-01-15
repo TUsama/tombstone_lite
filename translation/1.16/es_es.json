@@ -1,5 +1,5 @@
 {
-  "tombstone.lang.version": "1.4.5",
+  "tombstone.lang.version": "1.4.6",
   "tombstone.grave.grave_simple": "Tumba Simple",
   "tombstone.grave.grave_normal": "Tumba Normal",
   "tombstone.grave.grave_cross": "Tumba de Cruz",
@@ -526,6 +526,8 @@
   "tombstone.config.time_soul.tooltip": "Tiempo en minutos para verificar si un alma aparece en una tumba",
   "tombstone.config.unbreakable_decorative_grave.tooltip": "Establece las tumbas decorativas irrompibles",
   "tombstone.config.tablet_max_use.tooltip": "Máximos usos por tableta",
+  "tombstone.config.tablet_cooldown.tooltip": "Cooldown in second after using a tablet other than Tablet of Cupidity",
+  "tombstone.config.tablet_of_cupidity_cooldown.tooltip": "Cooldown in second after using a Tablet of Cupidity",
   "tombstone.config.chance_pray_reward.tooltip": "Posibilidad de recibir un efecto de hechizo beneficioso aleatorio al rezar cerca de una tumba",
   "tombstone.config.lost_tablet_search_outside_world.tooltip": "Permite que las tabletas perdidas encuentren ubicaciones fuera del mundo actual",
   "tombstone.config.lost_tablet_modded_structure.tooltip": "Allows lost tablets to find modded structures",
@@ -574,7 +576,6 @@
   "tombstone.config_cat.compatibility.tooltip": "Permite habilitar algunas funciones relacionadas con otros mods",
   "tombstone.config.keep_cosmetic_armor.tooltip": "Puedes mantener la armadura cuando mueres",
   "tombstone.config.allowCurioAutoEquip.tooltip": "Permite auto-equipar las ranuras del mod Curio",
-  "tombstone.config.disable_disenchantment_for_tetra.tooltip": "Disables to disenchant items from Tetra mod",
   "tombstone.command.tbteleport.default.usage": "This command is for teleportation, you need to select a type of teleport\n/tbteleport <pos, player, grave, death, home, discovery, biome>",
   "tombstone.command.tbteleport.discovery.usage": "Seras teletransportado a un pueblo inexplorado (o algunas otras estructuras)\n/tbteleport discovery <Entidad> [estructura] [dim]",
   "tombstone.command.tbteleport.biome.usage": "Teleports to a biome\n/tbteleport biome <entity> [biome] [dim]",

@@ -1,5 +1,5 @@
 {
-  "tombstone.lang.version": "1.4.5",
+  "tombstone.lang.version": "1.4.6",
   "tombstone.grave.grave_simple": "Tombe Simple",
   "tombstone.grave.grave_normal": "Tombe Normale",
   "tombstone.grave.grave_cross": "Tombe en Croix",
@@ -526,6 +526,8 @@
   "tombstone.config.time_soul.tooltip": "Temps en minutes pour vérifier si une âme apparaît sur une tombe",
   "tombstone.config.unbreakable_decorative_grave.tooltip": "Définit les tombes decoratives incassables",
   "tombstone.config.tablet_max_use.tooltip": "Utilisations maximales d'une tablette",
+  "tombstone.config.tablet_cooldown.tooltip": "Temps de recharge en seconde après avoir utilisé une tablette autre que la Tablette de Cupidité",
+  "tombstone.config.tablet_of_cupidity_cooldown.tooltip": "Temps de recharge en seconde après avoir utilisé une Tablette de Cupidité",
   "tombstone.config.chance_pray_reward.tooltip": "Chance de recevoir un effet de sort bénéfique aléatoire en priant près d'une tombe",
   "tombstone.config.lost_tablet_search_outside_world.tooltip": "Autorise les tablettes perdues à trouver des endroits en dehors du monde actuel",
   "tombstone.config.lost_tablet_modded_structure.tooltip": "Autorise les tablettes perdues à trouver des structures moddées",
@@ -574,7 +576,6 @@
   "tombstone.config_cat.compatibility.tooltip": "Permet certaines fonctionnalités liés à d'autres mods",
   "tombstone.config.keep_cosmetic_armor.tooltip": "Garde les armures cosmétiques quand vous mourez",
   "tombstone.config.allowCurioAutoEquip.tooltip": "Autorise d'équipper automatiquement les slots du mod Curio",
-  "tombstone.config.disable_disenchantment_for_tetra.tooltip": "Désactive de désenchanter des objets du mod Tetra",
   "tombstone.command.tbteleport.default.usage": "Cette commande permet de téléporter, vous devez d'abord sélectionner un type de téléportation\n/tbteleport <pos, player, grave, death, home, discovery, biome>",
   "tombstone.command.tbteleport.discovery.usage": "Téléporte à une structure non explorée\n/tbteleport discovery <entité> [structure] [dim]",
   "tombstone.command.tbteleport.biome.usage": "Téléporte à un biome\n/tbteleport biome <entité> [biome] [dim]",

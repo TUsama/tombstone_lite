@@ -1,5 +1,5 @@
 {
-  "tombstone.lang.version": "1.4.5",
+  "tombstone.lang.version": "1.4.6",
   "tombstone.grave.grave_simple": "簡易的墳墓",
   "tombstone.grave.grave_normal": "普通的墳墓",
   "tombstone.grave.grave_cross": "十字架墳墓",
@@ -526,6 +526,8 @@
   "tombstone.config.time_soul.tooltip": "如果一個靈魂出現在一個墳墓上將以分鐘為單位進行檢查",
   "tombstone.config.unbreakable_decorative_grave.tooltip": "裝飾性墳墓是否牢不可破",
   "tombstone.config.tablet_max_use.tooltip": "石板的最大使用量",
+  "tombstone.config.tablet_cooldown.tooltip": "Cooldown in second after using a tablet other than Tablet of Cupidity",
+  "tombstone.config.tablet_of_cupidity_cooldown.tooltip": "Cooldown in second after using a Tablet of Cupidity",
   "tombstone.config.chance_pray_reward.tooltip": "在墳墓旁祈禱獲得增益效果的機會",
   "tombstone.config.lost_tablet_search_outside_world.tooltip": "是否允許迷失石板尋找到當前世界以外的位置",
   "tombstone.config.lost_tablet_modded_structure.tooltip": "允許lost tablets找到修改後的結構",
@@ -574,7 +576,6 @@
   "tombstone.config_cat.compatibility.tooltip": "允許啟用與其它MOD相關的功能",
   "tombstone.config.keep_cosmetic_armor.tooltip": "當你死亡時保存身上的裝備",
   "tombstone.config.allowCurioAutoEquip.tooltip": "允許自動裝備在Curio中的特殊槽中",
-  "tombstone.config.disable_disenchantment_for_tetra.tooltip": "Disables to disenchant items from Tetra mod",
   "tombstone.command.tbteleport.default.usage": "This command is for teleportation, you need to select a type of teleport\n/tbteleport <pos, player, grave, death, home, discovery, biome>",
   "tombstone.command.tbteleport.discovery.usage": "傳送到一個為探索過的結構\n/tbteleport discovery <entity> [structure] [dim]",
   "tombstone.command.tbteleport.biome.usage": "傳送到生物群落\n/tbteleport biome <entity> [biome] [dim]",

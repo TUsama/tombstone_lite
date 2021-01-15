@@ -1,5 +1,5 @@
 {
-  "tombstone.lang.version": "1.4.5",
+  "tombstone.lang.version": "1.4.6",
   "tombstone.grave.grave_simple": "Простая могила",
   "tombstone.grave.grave_normal": "Обычная могила",
   "tombstone.grave.grave_cross": "Крестовая могила",
@@ -526,6 +526,8 @@
   "tombstone.config.time_soul.tooltip": "Время в минутах, чтобы проверить, если душа появляется на могиле",
   "tombstone.config.unbreakable_decorative_grave.tooltip": "Устанавливает декоративные могилы нерушимыми",
   "tombstone.config.tablet_max_use.tooltip": "Максимальное количество использований табличек",
+  "tombstone.config.tablet_cooldown.tooltip": "Cooldown in second after using a tablet other than Tablet of Cupidity",
+  "tombstone.config.tablet_of_cupidity_cooldown.tooltip": "Cooldown in second after using a Tablet of Cupidity",
   "tombstone.config.chance_pray_reward.tooltip": "Шанс получить случайный полезный эффект заклинания при молитве возле могилы",
   "tombstone.config.lost_tablet_search_outside_world.tooltip": "Позволяет потерянным табличкам находить места за пределами текущего мира",
   "tombstone.config.lost_tablet_modded_structure.tooltip": "Allows lost tablets to find modded structures",
@@ -574,7 +576,6 @@
   "tombstone.config_cat.compatibility.tooltip": "Allows to enable some features related to others mods",
   "tombstone.config.keep_cosmetic_armor.tooltip": "Keeps the cosmetic armor when you die",
   "tombstone.config.allowCurioAutoEquip.tooltip": "Allows to auto-equip the slots from Curio mod",
-  "tombstone.config.disable_disenchantment_for_tetra.tooltip": "Disables to disenchant items from Tetra mod",
   "tombstone.command.tbteleport.default.usage": "This command is for teleportation, you need to select a type of teleport\n/tbteleport <pos, player, grave, death, home, discovery, biome>",
   "tombstone.command.tbteleport.discovery.usage": "Телепортирует в неисследованную структуру.\n/tbteleport discovery <сущность> [структура] [измерение]",
   "tombstone.command.tbteleport.biome.usage": "Teleports to a biome\n/tbteleport biome <игрок> [биом] [измерение]",
