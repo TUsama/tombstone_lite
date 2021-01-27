@@ -1,12 +1,12 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/corail-tombstone",
 	"promos": {
-		"1.16.5-latest": "1.16-6.2.5",
-		"1.16.5-recommended": "1.16-6.2.3",
+		"1.16.5-latest": "1.16-6.3.0",
+		"1.16.5-recommended": "1.16-6.2.5",
 		"1.16.4-latest": "1.16-6.2.5",
-		"1.16.4-recommended": "1.16-6.2.3",
+		"1.16.4-recommended": "1.16-6.2.5",
 		"1.16.3-latest": "1.16-6.2.5",
-		"1.16.3-recommended": "1.16-6.2.3",
+		"1.16.3-recommended": "1.16-6.2.5",
 		"1.16.1-latest": "5.0.2",
 		"1.16.1-recommended": "5.0.2",
 		"1.15.2-latest": "4.6.0",
@@ -35,8 +35,8 @@
 		"1.8.9-recommended": "1.4.1"
 	},
 	"1.16.5": {
-		"1.16-6.2.5": "improvements & compatibility",
-		"1.16-6.2.3": "improve command siege, gui, reset_ankh"
+		"1.16-6.3.0": "grave plate and a way to create ancien tablet",
+		"1.16-6.2.5": "improvements & compatibility"
 	},
 	"1.16.4": {
 		"1.16-6.2.5": "improvements & compatibility",
