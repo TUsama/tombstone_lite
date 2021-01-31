@@ -56,7 +56,7 @@
   "tombstone.item.tablet_of_assistance.use2": "在铁砧上消耗1个 %s 以刻上其他玩家的名字",
   "tombstone.item.tablet_of_assistance.use3": "按住右键传送到刻有名字的玩家身边",
   "tombstone.item.tablet_of_cupidity" : "贪婪石板",
-  "tombstone.item.tablet_of_cupidity.desc" : "这些石板可以给你幸运效果, 尽管给很少",
+  "tombstone.item.tablet_of_cupidity.desc" : "这些石板可以给你带来好运, 尽管这可能性很小",
   "tombstone.item.tablet_of_cupidity.use1" : "右击一个带有灵魂的装饰性坟墓激活该石板",
   "tombstone.item.tablet_of_cupidity.use2" : "按住右键传送",
   "tombstone.item.fishing_rod_of_misadventure": "厄运鱼竿",
