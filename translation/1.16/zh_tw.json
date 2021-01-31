@@ -141,7 +141,7 @@
   "tombstone.message.enchant_item.already_enchanted": "這個物品已經被附魔了!",
   "tombstone.message.enchant_item.no_soul": "這裏沒有靈魂",
   "tombstone.message.enchant_item.not_allowed": "妳不能附魔這個物品",
-  "tombstone.message.cant_enchant_grave_key": "妳不能附魔這把墳墓的鑰匙",
+  "tombstone.message.cant_enchant_grave_key": "妳不能附魔這把墳墓之鑰",
   "tombstone.message.teleport.success": "傳送成功!",
   "tombstone.message.teleport.failed": "傳送失敗",
   "tombstone.message.teleport.too_close_from_grave": "妳離墳墓太近無法傳送!",
