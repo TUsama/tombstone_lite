@@ -196,7 +196,7 @@
   "tombstone.message.day": "天數: %d",
   "tombstone.message.cant_pray": "這附近沒有裝飾性墳墓",
   "tombstone.message.exorcism": "這個僵屍村民體內充滿了來自安卡的魔法",
-  "tombstone.message.access_gui": "您獲得了 %s級.如果妳想打開死亡知識界面，請點擊 %s.",
+  "tombstone.message.access_gui": "妳的死亡知識提升了%s級.如果妳想打開死亡知識界面，請點擊%s.",
   "tombstone.message.perk_reset.success": "妳的技能點已被重置",
   "tombstone.message.perk_reset.failed": "妳沒有分配任何技能點，所以無法重置",
   "tombstone.message.perk_reset.in_cooldown": "妳還需要等待 %sm%ss 才能重置妳的技能點",
