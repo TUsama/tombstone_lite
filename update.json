@@ -21,8 +21,8 @@
 		"1.14.2-recommended": "3.6.2",
 		"1.13.2-latest": "3.5.2",
 		"1.13.2-recommended": "3.5.2",
-		"1.12.2-latest": "4.0.1",
-		"1.12.2-recommended": "4.0.1",
+		"1.12.2-latest": "4.1.0",
+		"1.12.2-recommended": "4.1.0",
 		"1.12.1-latest": "2.9.9",
 		"1.12.1-recommended": "2.9.9",
 		"1.11.2-latest": "2.9.0.1",
@@ -112,8 +112,9 @@
 		"3.5.2": "improves the command to revive tamed creatures"
 	},
 	"1.12.2": {
+		"4.1.0": "grave plate, pray of protection & command to reset the ankh",
 		"4.0.1": "some fixes and texture compression",
-		"4.0.0": "thank you to all the players",
+		"4.0.0": "perk alchemy & white graves",
 		"3.7.5": "translations, voodoo poppet tweak & configs for alignment",
 		"3.7.4": "improvements",
 		"3.7.3": "tbteleportdeath, tbbind, improve tablet of cupidity, compat forgeessentials",
