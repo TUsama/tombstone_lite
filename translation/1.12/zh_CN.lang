@@ -1,5 +1,5 @@
 #PARSE_ESCAPES
-tombstone.lang.version=3.6.0
+tombstone.lang.version=3.6.1
 tombstone.grave.grave_simple.name=简易坟墓
 tombstone.grave.grave_cross.name=十字架坟墓
 tombstone.grave.grave_normal.name=普通坟墓
@@ -140,6 +140,7 @@ tombstone.message.open_grave.success=坟墓消失了!
 tombstone.message.recover_lost_items=你找回了你丢失的东西
 tombstone.message.open_grave.need_key=你需要一把钥匙!
 tombstone.message.open_grave.wrong_key=这把钥匙不对!
+tombstone.message.choose_no_grave=You chosen to have no grave
 tombstone.message.no_loot_for_grave=没有生成坟墓，因为你死亡时背包中没有任何物品
 tombstone.message.no_grave_location=你的物品散落在地上了，因为这个地方不能生成坟墓
 tombstone.message.no_place_for_grave=这里无法放置坟墓!
@@ -309,6 +310,8 @@ tombstone.config.enable_halloween_effect.tooltip=是否在万圣节时启用特�
 tombstone.config.show_info_on_enchantment.tooltip=在提示条中显示坟墓MOD附魔的使用
 tombstone.config.grave_skin_rule.tooltip=阐明使用坟墓皮肤的规则
 tombstone.config.priorize_tool_on_hotbar.tooltip=追回坟墓后将偏好工具自动装入快捷栏
+tombstone.config.activate_grave_by_sneaking.tooltip=让你能通过潜行激活坟墓
+tombstone.config.deny_grave_on_death.tooltip=Denies to create a grave with your items when you die
 # Decorative Grave
 tombstone.config_cat.decorative_grave=装饰性坟墓
 tombstone.config_cat.decorative_grave.tooltip=关于装饰性坟墓和魔法物品的设定
@@ -353,7 +356,7 @@ tombstone.config.plague_bringer_enchanting_table.tooltip=是否允许瘟神附�
 tombstone.config.plague_bringer_combining_magic_siphon.tooltip=是否允许瘟神附魔与吸攻大法附魔共存
 tombstone.config.max_level_magic_siphon.tooltip=吸攻大法最高附魔等级
 tombstone.config.max_level_plague_bringer.tooltip=瘟神最高附魔等级
-tombstone.config.magic_siphon_on_player_rule.tooltip=定义玩家是否可以窃取其他玩家身上的效果。如有削弱，则被窃取效果的持续时间将会在原效果的基础上较低10%
+tombstone.config.magic_siphon_on_player_rule.tooltip=定义玩家是否可以窃取其他玩家身上的效果。如有削弱，则被窃取效果的持续时间将会在原效果的基础上较低10%%
 # Village Siege
 tombstone.config_cat.village_siege=村庄围攻
 tombstone.config_cat.village_siege.tooltip=允许界定开始围攻村庄的触发条件

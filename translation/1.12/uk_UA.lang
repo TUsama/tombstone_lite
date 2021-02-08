@@ -1,5 +1,5 @@
 #PARSE_ESCAPES
-tombstone.lang.version=3.6.0
+tombstone.lang.version=3.6.1
 tombstone.grave.grave_simple.name=Проста труна
 tombstone.grave.grave_cross.name=Труна з хрестом
 tombstone.grave.grave_normal.name=Звичайна труна
@@ -140,6 +140,7 @@ tombstone.message.open_grave.success=Гробниця зникає!
 tombstone.message.recover_lost_items=Ви відновили втрачені речі
 tombstone.message.open_grave.need_key=Вам потрібен ключ!
 tombstone.message.open_grave.wrong_key=Це неправильний ключ!
+tombstone.message.choose_no_grave=You chosen to have no grave
 tombstone.message.no_loot_for_grave=Труна не з’явилася, оскільки предметів для зберігання не було
 tombstone.message.no_grave_location=Ваші предмети лежать на землі;  це місце не призначене для могил
 tombstone.message.no_place_for_grave=Труни ніде було розміститись!
@@ -309,6 +310,8 @@ tombstone.config.enable_halloween_effect.tooltip=Вмикає особливі �
 tombstone.config.show_info_on_enchantment.tooltip=Показує використання чарів надгробного пам'ятника в підказці
 tombstone.config.grave_skin_rule.tooltip=Визначає правило використання для труної шкіри
 tombstone.config.priorize_tool_on_hotbar.tooltip=Віддавайте перевагу інструментам на гарячій панелі під час відновлення труни
+tombstone.config.activate_grave_by_sneaking.tooltip=Allows to activate a grave by sneaking
+tombstone.config.deny_grave_on_death.tooltip=Denies to create a grave with your items when you die
 # Decorative Grave
 tombstone.config_cat.decorative_grave=Декоративні труни
 tombstone.config_cat.decorative_grave.tooltip=Налаштування, пов’язані з декоративними гробницями та магічними предметами
@@ -353,7 +356,7 @@ tombstone.config.plague_bringer_enchanting_table.tooltip=Allows Plague Bringer a
 tombstone.config.plague_bringer_combining_magic_siphon.tooltip=Allows Plague Bringer to combine with Magic Siphon
 tombstone.config.max_level_magic_siphon.tooltip=Max level for Magic Siphon
 tombstone.config.max_level_plague_bringer.tooltip=Max level for Plague Bringer
-tombstone.config.magic_siphon_on_player_rule.tooltip=Defines if players can steal effects to others players. If nerfed, the stolen effect duration is limited to 10% of the initial effect
+tombstone.config.magic_siphon_on_player_rule.tooltip=Defines if players can steal effects to others players. If nerfed, the stolen effect duration is limited to 10%% of the initial effect
 # Village Siege
 tombstone.config_cat.village_siege=Осада села
 tombstone.config_cat.village_siege.tooltip=Дозволяє визначити умови для початку осади села

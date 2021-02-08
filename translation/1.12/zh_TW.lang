@@ -1,5 +1,5 @@
 #PARSE_ESCAPES
-tombstone.lang.version=3.6.0
+tombstone.lang.version=3.6.1
 tombstone.grave.grave_simple.name=簡易墳墓
 tombstone.grave.grave_cross.name=十字架墳墓
 tombstone.grave.grave_normal.name=普通墳墓
@@ -140,6 +140,7 @@ tombstone.message.open_grave.success=墳墓消失了!
 tombstone.message.recover_lost_items=你找回了你丟失的東西
 tombstone.message.open_grave.need_key=你需要一把鑰匙!
 tombstone.message.open_grave.wrong_key=這把鑰匙不對!
+tombstone.message.choose_no_grave=You chosen to have no grave
 tombstone.message.no_loot_for_grave=沒有生成墳墓，因爲你死亡時背包中沒有任何物品
 tombstone.message.no_grave_location=你的物品散落在地上了，因爲這個地方不能生成墳墓
 tombstone.message.no_place_for_grave=這裏無法放置墳墓!
@@ -309,6 +310,8 @@ tombstone.config.enable_halloween_effect.tooltip=是否在萬聖節時啓用特�
 tombstone.config.show_info_on_enchantment.tooltip=在提示條中顯示墳墓MOD附魔的使用
 tombstone.config.grave_skin_rule.tooltip=闡明使用墳墓皮膚的規則
 tombstone.config.priorize_tool_on_hotbar.tooltip=追回墳墓後將偏好工具自動裝入快捷欄
+tombstone.config.activate_grave_by_sneaking.tooltip=讓妳能通過潛行激活墳墓
+tombstone.config.deny_grave_on_death.tooltip=Denies to create a grave with your items when you die
 # Decorative Grave
 tombstone.config_cat.decorative_grave=裝飾性墳墓
 tombstone.config_cat.decorative_grave.tooltip=關于裝飾性墳墓和魔法物品的設定
@@ -353,7 +356,7 @@ tombstone.config.plague_bringer_enchanting_table.tooltip=是否允許瘟神附�
 tombstone.config.plague_bringer_combining_magic_siphon.tooltip=是否允許瘟神附魔與吸攻大法附魔共存
 tombstone.config.max_level_magic_siphon.tooltip=吸攻大法最高附魔等級
 tombstone.config.max_level_plague_bringer.tooltip=瘟神最高附魔等級
-tombstone.config.magic_siphon_on_player_rule.tooltip=定義玩家是否可以竊取其他玩家身上的效果。如有削弱，則被竊取效果的持續時間將會在原效果的基礎上較低10%
+tombstone.config.magic_siphon_on_player_rule.tooltip=定義玩家是否可以竊取其他玩家身上的效果。如有削弱，則被竊取效果的持續時間將會在原效果的基礎上較低10%%
 # Village Siege
 tombstone.config_cat.village_siege=村莊圍攻
 tombstone.config_cat.village_siege.tooltip=允許界定開始圍攻村莊的觸發條件

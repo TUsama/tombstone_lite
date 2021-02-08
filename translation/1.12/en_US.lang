@@ -1,5 +1,5 @@
 #PARSE_ESCAPES
-tombstone.lang.version=3.6.0
+tombstone.lang.version=3.6.1
 tombstone.grave.grave_simple.name=Simple Grave
 tombstone.grave.grave_cross.name=Cross Grave
 tombstone.grave.grave_normal.name=Normal Grave
@@ -140,6 +140,7 @@ tombstone.message.open_grave.success=The tomb disappears!
 tombstone.message.recover_lost_items=You have recovered your lost items
 tombstone.message.open_grave.need_key=You need a key!
 tombstone.message.open_grave.wrong_key=This is the wrong key!
+tombstone.message.choose_no_grave=You chosen to have no grave
 tombstone.message.no_loot_for_grave=No grave appeared as there were no items to be stored
 tombstone.message.no_grave_location=Your items lie on the ground; this place is not intended for graves
 tombstone.message.no_place_for_grave=There was nowhere to place the grave!
@@ -309,6 +310,8 @@ tombstone.config.enable_halloween_effect.tooltip=Enables the special rendering a
 tombstone.config.show_info_on_enchantment.tooltip=Shows the use of the Tombstone's enchantments in tooltip
 tombstone.config.grave_skin_rule.tooltip=Defines the rule to use for grave's skin
 tombstone.config.priorize_tool_on_hotbar.tooltip=Favor the tools on the hotbar when recovering a grave
+tombstone.config.activate_grave_by_sneaking.tooltip=Allows to activate a grave by sneaking
+tombstone.config.deny_grave_on_death.tooltip=Denies to create a grave with your items when you die
 # Decorative Grave
 tombstone.config_cat.decorative_grave=Decorative Grave
 tombstone.config_cat.decorative_grave.tooltip=For settings related to decorative tombs and magic items
@@ -353,7 +356,7 @@ tombstone.config.plague_bringer_enchanting_table.tooltip=Allows Plague Bringer a
 tombstone.config.plague_bringer_combining_magic_siphon.tooltip=Allows Plague Bringer to combine with Magic Siphon
 tombstone.config.max_level_magic_siphon.tooltip=Max level for Magic Siphon
 tombstone.config.max_level_plague_bringer.tooltip=Max level for Plague Bringer
-tombstone.config.magic_siphon_on_player_rule.tooltip=Defines if players can steal effects to others players. If nerfed, the stolen effect duration is limited to 10% of the initial effect
+tombstone.config.magic_siphon_on_player_rule.tooltip=Defines if players can steal effects to others players. If nerfed, the stolen effect duration is limited to 10%% of the initial effect
 # Village Siege
 tombstone.config_cat.village_siege=Village Siege
 tombstone.config_cat.village_siege.tooltip=Allows to define the conditions for a village siege to begin

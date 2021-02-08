@@ -1,5 +1,5 @@
 #PARSE_ESCAPES
-tombstone.lang.version=3.6.0
+tombstone.lang.version=3.6.1
 tombstone.grave.grave_simple.name=Tumba Simple
 tombstone.grave.grave_cross.name=Tumba de Cruz
 tombstone.grave.grave_normal.name=Tumba Normal
@@ -140,6 +140,7 @@ tombstone.message.open_grave.success=La tumba desaparecio!
 tombstone.message.recover_lost_items=Has recuperado tus objetos perdidos
 tombstone.message.open_grave.need_key=Necesitas una llave!
 tombstone.message.open_grave.wrong_key=Esta es la llave equivocada!
+tombstone.message.choose_no_grave=You chosen to have no grave
 tombstone.message.no_loot_for_grave=No apareció ninguna tumba ya que no había artículos para almacenar
 tombstone.message.no_grave_location=Sus artículos estan en el suelo; este lugar no está disponible para tumbas
 tombstone.message.no_place_for_grave=No había ningún lugar para colocar la tumba!
@@ -309,6 +310,8 @@ tombstone.config.enable_halloween_effect.tooltip=Permite el renderizado especial
 tombstone.config.show_info_on_enchantment.tooltip=Muestra el uso de los encantamientos de Tombstone en la información sobre herramientas.
 tombstone.config.grave_skin_rule.tooltip=Define la regla a usar para la piel de la tumba
 tombstone.config.priorize_tool_on_hotbar.tooltip=Favor the tools on the hotbar when recovering a grave
+tombstone.config.activate_grave_by_sneaking.tooltip=Allows to activate a grave by sneaking
+tombstone.config.deny_grave_on_death.tooltip=Denies to create a grave with your items when you die
 # Tumba decorativa
 tombstone.config_cat.decorative_grave=Tumba decorativa
 tombstone.config_cat.decorative_grave.tooltip=Para configuraciones relacionadas con tumbas decorativas y objetos mágicos
@@ -353,7 +356,7 @@ tombstone.config.plague_bringer_enchanting_table.tooltip=Allows Plague Bringer a
 tombstone.config.plague_bringer_combining_magic_siphon.tooltip=Allows Plague Bringer to combine with Magic Siphon
 tombstone.config.max_level_magic_siphon.tooltip=Max level for Magic Siphon
 tombstone.config.max_level_plague_bringer.tooltip=Max level for Plague Bringer
-tombstone.config.magic_siphon_on_player_rule.tooltip=Defines if players can steal effects to others players. If nerfed, the stolen effect duration is limited to 10% of the initial effect
+tombstone.config.magic_siphon_on_player_rule.tooltip=Defines if players can steal effects to others players. If nerfed, the stolen effect duration is limited to 10%% of the initial effect
 # Asedio del pueblo
 tombstone.config_cat.village_siege=Asedio de los enemigos en el pueblo
 tombstone.config_cat.village_siege.tooltip=Permite definir las condiciones para que comience el asedio de un pueblo

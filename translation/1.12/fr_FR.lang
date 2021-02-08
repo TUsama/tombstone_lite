@@ -1,5 +1,5 @@
 #PARSE_ESCAPES
-tombstone.lang.version=3.6.0
+tombstone.lang.version=3.6.1
 tombstone.grave.grave_simple.name=Tombe Simple
 tombstone.grave.grave_cross.name=Tombe en Croix
 tombstone.grave.grave_normal.name=Tombe Normale
@@ -140,6 +140,7 @@ tombstone.message.open_grave.success=La tombe disparait !
 tombstone.message.recover_lost_items=Tu as récupéré tes objets perdus
 tombstone.message.open_grave.need_key=Tu as besoin d'une clé !
 tombstone.message.open_grave.wrong_key=Ce n'est pas la bonne clé !
+tombstone.message.choose_no_grave=Tu as choisi de ne pas avoir de tombe
 tombstone.message.no_loot_for_grave=Aucune tombe n'est apparue vu qu'il n'y avait pas d'objets à récupérer
 tombstone.message.no_grave_location=Tes objets reposent sur le sol vu que cet endroit est destiné à ne pas avoir de tombe
 tombstone.message.no_place_for_grave=Aucun moyen de trouver une place pour la tombe !
@@ -309,6 +310,8 @@ tombstone.config.enable_halloween_effect.tooltip=Autorise le rendu spécial et l
 tombstone.config.show_info_on_enchantment.tooltip=Affiche l'utilité des enchantments de Tombstone dans les infobulles
 tombstone.config.grave_skin_rule.tooltip=Définis les règles à utiliser pour les apparences de tombe
 tombstone.config.priorize_tool_on_hotbar.tooltip=Privilégie les outils sur la barre d'action lors de la récupération d'une tombe
+tombstone.config.activate_grave_by_sneaking.tooltip=Autorise d'activer une tombe en s'accroupissant
+tombstone.config.deny_grave_on_death.tooltip=Empêche de créer une tombe contenant vos objets lors de votre mort
 # Tombe Décorative
 tombstone.config_cat.decorative_grave=Tombe Décorative
 tombstone.config_cat.decorative_grave.tooltip=Pour les paramètres relatifs aux tombes décoratives et aux objets magiques
@@ -353,7 +356,7 @@ tombstone.config.plague_bringer_enchanting_table.tooltip=Autorise Porte Peste à
 tombstone.config.plague_bringer_combining_magic_siphon.tooltip=Porte Peste peut être combiné avec Siphon Magique
 tombstone.config.max_level_magic_siphon.tooltip=Niveau max de Siphon Magique
 tombstone.config.max_level_plague_bringer.tooltip=Niveau max de Porte Peste
-tombstone.config.magic_siphon_on_player_rule.tooltip=Définis si les joueurs peuvent voler des effets à d'autres joueurs. Si 'nerfed', la durée de l'effet volé sera limitée à 10% de l'effet initial
+tombstone.config.magic_siphon_on_player_rule.tooltip=Définis si les joueurs peuvent voler des effets à d'autres joueurs. Si 'nerfed', la durée de l'effet volé sera limitée à 10%% de l'effet initial
 # Siège de Village
 tombstone.config_cat.village_siege=Siège de Village
 tombstone.config_cat.village_siege.tooltip=Permet de définir les conditions pour qu'un siège de village débute
