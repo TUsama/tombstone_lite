@@ -1,5 +1,5 @@
 #PARSE_ESCAPES
-tombstone.lang.version=3.6.1
+tombstone.lang.version=3.6.2
 tombstone.grave.grave_simple.name=Simple Grave
 tombstone.grave.grave_cross.name=Cross Grave
 tombstone.grave.grave_normal.name=Normal Grave
@@ -312,6 +312,7 @@ tombstone.config.grave_skin_rule.tooltip=Defines the rule to use for grave's ski
 tombstone.config.priorize_tool_on_hotbar.tooltip=Favor the tools on the hotbar when recovering a grave
 tombstone.config.activate_grave_by_sneaking.tooltip=Allows to activate a grave by sneaking
 tombstone.config.deny_grave_on_death.tooltip=Denies to create a grave with your items when you die
+tombstone.config.grave_spawn_rule.tooltip=Defines your grave placement logic (nearest or ideal placement)
 # Decorative Grave
 tombstone.config_cat.decorative_grave=Decorative Grave
 tombstone.config_cat.decorative_grave.tooltip=For settings related to decorative tombs and magic items
@@ -387,6 +388,7 @@ tombstone.config.allow_smart_backpacks_autoEquip.tooltip=Allows to re-equip the 
 tombstone.config.support_wearable_backpacks.tooltip=Allows to move the backpack close to the grave
 tombstone.config.keep_cosmetic_armor.tooltip=Keeps the cosmetic armor when you die
 tombstone.config.allow_thaumcraft_vis_values.tooltip=Allows to provide some vis values for decorative graves
+tombstone.config.preserve_effects_on_return_end_conquered.tooltip=Ensure the potion effects to stay on the player after returning from end conquered
 # Advancements
 tombstone.advancement.tutorial.title=Tombstone Tutorial
 tombstone.advancement.tutorial.desc=Tutorial to guide you in your discovery of Tombstone
@@ -596,6 +598,7 @@ tombstone.compendium.fishing_rod_of_misadventure.desc=This fishing rod seems to 
 tombstone.compendium.ghostly_shape.desc=The Ghostly Shape is an effect received after a death that prevents creatures from attacking you.\nIt can be improved with the Perk Ghostly Shape granting some additional effects.\nThe effect is canceled if you attack a creature or retrieve your grave.\nIf the config restricts Ghostly Shape, the effect will also be canceled if you open a chest, break a block, or push a hostile creature.
 tombstone.compendium.grave_dust.desc=The Grave's Dust is a crafting ingredient used in several recipes such as Dark Marble, Scrolls and Tablets.\nIt can be dropped from the undead creatures and more rarely when the lost tablets break.
 tombstone.compendium.grave_key.desc=After you reappear from a death, you receive the Grave's Key.\nThis allows you to locate your grave at a distance when you are in the same dimension.\nThe key can be enchanted with a Soul haunting a Decorative Grave, or by crafting, allowing you to teleport directly to your grave.\nThe key has a chance to be directly enchanted defined in the config and adjusted by the Perk Jailer of 20 %% per level to reach 100 %%.
+tombstone.compendium.grave_plate.desc=The Grave Plate allows you to set a name on a Decorative Grave. They can be switched if allowed in config. You need first to engrave the Grave Plate by using an anvil and an iron ingot.
 tombstone.compendium.halloween.title=Halloween
 tombstone.compendium.halloween.desc=During Halloween, being also the Sabbat period, some Tombstone behaviors will be altered:\n- decorative Graves have special decorations\n- grave's keys are always enchanted when respawning from a death, and you also receive ghostly shape 5 (if the duration in the config is above 0)\n- magic scroll duration is increased by 50%%\n- voodoo poppet & book of disenchantment don't require the need of the corresponding Perk\n- pray on a Decorative Grave always provides a buff\n- if the config is set to have losses in the grave, some lollipops are put in replacement instead of junk items\n- the Perk Bone Collector is increased by 2\n- if the config for spawn creatures on grave recovery is enabled, the creatures will spawn with pumkin head\n- ghosts appears during night to haunt players that don't pray on graves
 tombstone.compendium.impregnated_diamond.desc=Impregnated Diamond is a crafting ingredient made from a diamond and some Grave's Dusts.\nIt's used to create some receptacles.

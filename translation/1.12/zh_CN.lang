@@ -1,5 +1,5 @@
 #PARSE_ESCAPES
-tombstone.lang.version=3.6.1
+tombstone.lang.version=3.6.2
 tombstone.grave.grave_simple.name=简易坟墓
 tombstone.grave.grave_cross.name=十字架坟墓
 tombstone.grave.grave_normal.name=普通坟墓
@@ -312,6 +312,7 @@ tombstone.config.grave_skin_rule.tooltip=阐明使用坟墓皮肤的规则
 tombstone.config.priorize_tool_on_hotbar.tooltip=追回坟墓后将偏好工具自动装入快捷栏
 tombstone.config.activate_grave_by_sneaking.tooltip=让你能通过潜行激活坟墓
 tombstone.config.deny_grave_on_death.tooltip=Denies to create a grave with your items when you die
+tombstone.config.grave_spawn_rule.tooltip=Defines your grave placement logic (nearest or ideal placement)
 # Decorative Grave
 tombstone.config_cat.decorative_grave=装饰性坟墓
 tombstone.config_cat.decorative_grave.tooltip=关于装饰性坟墓和魔法物品的设定
@@ -387,6 +388,7 @@ tombstone.config.allow_smart_backpacks_autoEquip.tooltip=允许重新装备背�
 tombstone.config.support_wearable_backpacks.tooltip=允许在接近坟墓时将坟墓中的物品移动到背包
 tombstone.config.keep_cosmetic_armor.tooltip=当你死亡时保存身上的装备
 tombstone.config.allow_thaumcraft_vis_values.tooltip=为装饰性坟墓提供一些vis值
+tombstone.config.preserve_effects_on_return_end_conquered.tooltip=Ensure the potion effects to stay on the player after returning from end conquered
 # Advancements
 tombstone.advancement.tutorial.title=坟墓说明书
 tombstone.advancement.tutorial.desc=引导你探索坟墓的奥秘
@@ -596,6 +598,7 @@ tombstone.compendium.fishing_rod_of_misadventure.desc=使用这根鱼竿钓鱼�
 tombstone.compendium.ghostly_shape.desc=幽灵形态是一种死亡后获得的效果，它可以防止生物攻击你。\n你可以通过提高该死亡知识的技能以额外增加一些效果。\n当你攻击一个生物或找回你的坟墓时，这个效果会消失。\n如果在配置文件中对它的一些限制进行了修改，那么该效果将会在 打开一个箱子，打破一个方块，亦或者推动了一个敌对性生物 之后消失。
 tombstone.compendium.grave_dust.desc=墓灰是一种合成材料，可用于一些合成，如: 暗黑大理石，卷轴和石板。\n它很少会从亡灵生物身上掉落。
 tombstone.compendium.grave_key.desc=当你死而复生后，你将会得到坟墓之钥。\n如果你和你的坟墓在同一维度，你将可以通过手持它来获取你坟墓的位置。\n钥匙可以通过带有灵魂的装饰性坟墓对它进行附魔，也可以通过合成附魔，附魔后的坟墓之钥可以让你直接传送到你的坟墓旁.\n根据配置文件和狱监技能，你有几率会直接获得附魔的坟墓之钥，这个概率会随着狱监技能等级的提高而提高，每级提高 20 %% ，最高 100 %%。
+tombstone.compendium.grave_plate.desc=The Grave Plate allows you to set a name on a Decorative Grave. They can be switched if allowed in config. You need first to engrave the Grave Plate by using an anvil and an iron ingot.
 tombstone.compendium.halloween.title=万圣夜
 tombstone.compendium.halloween.desc=万圣夜期间，也就是安息日期间，墓碑Mod会有所改变:\n- 装饰性坟墓具有特殊的装饰\n- 死后获得的坟墓之钥将全部是被附魔的，你的幽灵形态等级也是5级 (配置中幽灵形态的持续时间大于 0才会生效)\n- 魔法卷轴持续时间提高 50%%\n- 使用 巫毒玩偶 & 祛魔书 不再受技能等级限制\n- 在一个装饰性坟墓旁祈祷必定获得一个BUFF\n- 如果配置文件中设置了死亡后会有几率使部分物品在坟墓中直接丢失，那么就会出现一些棒棒糖替换掉一些垃圾物品\n- 集骨者技能等级提升到2级\n- 如果在配置文件中取回坟墓里的物品时有几率生成生物的这项设定是开启的，那么当生物生成时它将自带南瓜头\n- 夜晚，幽灵将会出现在没有到坟墓旁进行祈祷的玩家身边
 tombstone.compendium.impregnated_diamond.desc=浸渍钻石是一种由钻石和一些墓灰合成的合成材料.\n它可以用来制作一些容器。

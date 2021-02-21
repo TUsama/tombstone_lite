@@ -1,5 +1,5 @@
 #PARSE_ESCAPES
-tombstone.lang.version=3.6.1
+tombstone.lang.version=3.6.2
 tombstone.grave.grave_simple.name=Tumba Simple
 tombstone.grave.grave_cross.name=Tumba de Cruz
 tombstone.grave.grave_normal.name=Tumba Normal
@@ -312,6 +312,7 @@ tombstone.config.grave_skin_rule.tooltip=Define la regla a usar para la piel de 
 tombstone.config.priorize_tool_on_hotbar.tooltip=Favor the tools on the hotbar when recovering a grave
 tombstone.config.activate_grave_by_sneaking.tooltip=Allows to activate a grave by sneaking
 tombstone.config.deny_grave_on_death.tooltip=Denies to create a grave with your items when you die
+tombstone.config.grave_spawn_rule.tooltip=Defines your grave placement logic (nearest or ideal placement)
 # Tumba decorativa
 tombstone.config_cat.decorative_grave=Tumba decorativa
 tombstone.config_cat.decorative_grave.tooltip=Para configuraciones relacionadas con tumbas decorativas y objetos mágicos
@@ -387,6 +388,7 @@ tombstone.config.allow_smart_backpacks_autoEquip.tooltip=Permite volver a equipa
 tombstone.config.support_wearable_backpacks.tooltip=Permite mover la mochila cerca de la tumba
 tombstone.config.keep_cosmetic_armor.tooltip=Puedes mantener la armadura cuando mueres
 tombstone.config.allow_thaumcraft_vis_values.tooltip=Permite proporcionar algunos valores vis para tumbas decorativas
+tombstone.config.preserve_effects_on_return_end_conquered.tooltip=Ensure the potion effects to stay on the player after returning from end conquered
 # Logros
 tombstone.advancement.tutorial.title=Tutorial del Tombstone
 tombstone.advancement.tutorial.desc=Tutorial para guiarte en tu descubrimiento de Tombstone
@@ -596,6 +598,7 @@ tombstone.compendium.fishing_rod_of_misadventure.desc=Esta caña de pescar parec
 tombstone.compendium.ghostly_shape.desc=El modo fantasma es un efecto recibido después de una muerte que evita que las criaturas te ataquen.\nSe puede mejorar con la ventaja de forma fantasmal que otorga algunos efectos adicionales.\nEl efecto se cancela si atacas a una criatura o recuperas tu tumba.\nSi la configuracion restringe la forma fantasmal, el efecto también se cancelará si abres un cofre, rompes un bloque o empujas a una criatura hostil.
 tombstone.compendium.grave_dust.desc=El Polvo de alma es un ingrediente de elaboración que se utiliza en varias recetas, como en la creacion del mármol oscuro, pergaminos y tabletas.\nlo puede soltar los enemigos y, muy raramente, cuando se rompe una tableta perdida.
 tombstone.compendium.grave_key.desc=Después de reaparecer de una muerte, recibes la Llave de la Tumba.\nEsto te permite ubicar tu tumba a cierta distancia cuando estás en la misma dimensión.\nLa llave se puede encantar con una tumba o lapida decorativa que tenga un alma, y haci te permite teletransportarte directamente a tu tumba manteniendo pulsado el clic derecho.\nLa llave tiene la posibilidad de estar directamente encantada puedes definir la configuración de ello en las opciones y tambien esta ajustada por el beneficio de Carcelero a un 20 %% por nivel para alcanzar el 100 %%.
+tombstone.compendium.grave_plate.desc=The Grave Plate allows you to set a name on a Decorative Grave. They can be switched if allowed in config. You need first to engrave the Grave Plate by using an anvil and an iron ingot.
 tombstone.compendium.halloween.title=Halloween
 tombstone.compendium.halloween.desc=Durante Halloween, también es el período Sabbat, algunos comportamientos de Tombstone cambian: Las tumbas decorativas tienen decoraciones especiales\nlas llaves de las tumbas siempre están encantadas cuando reapareces de una muerte, y también recibes la forma fantasmal nivel 5 (si la duración de la configuración está por encima de 0)\nla duración del desplazo de un objeto aumenta en un 50 %%\nel vudú y el libro del desencanto no requieren la necesidad de su ventaja correspondiente\nrezar en Tumbas siempre te proporcionara una ventaja\nsi la opcion está configurada para tener pérdidas en tu tumba, se reemplazaran algunas paletas en lugar de objetos basura\nla ventaja de coleccionista de huesos aumenta al nivel 2\nsi la opcion de recuperación de las criaturas de la tumba está activada, reaparecerán con cabeza de calabaza\nlos fantasmas aparecen durante la noche para perseguir a los jugadores que no rezan en las tumbas
 tombstone.compendium.impregnated_diamond.desc=El diamante impregnado es un ingrediente artesanal hecho de un diamante y algunos polvos de tumba.\nSe usa para crear Receptáculos
