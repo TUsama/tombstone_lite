@@ -263,7 +263,7 @@
   "tombstone.message.impregnate_needle.failed": "这根针已经被填充过精华了",
   "tombstone.message.pray_of_protection.success":  "你的祈祷保护已经奏效 %s",
   "tombstone.message.pray_of_protection.failed":  "%s 已经被保护",
-  "tombstone.message.reset_ankh": "安卡的冷却时间 %s 已被重置",
+  "tombstone.message.reset_ankh": " %s 的安卡冷却时间已被重置",
   "tombstone.message.grave_plate_replacement_not_allowed": "你不能将你写的墓碑替换上去。",
   "tombstone.button.config": "配置",
   "effect.tombstone.ghostly_shape": "幽灵形态",
