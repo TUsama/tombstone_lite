@@ -175,7 +175,7 @@
   "tombstone.message.prevent_death.degeneration": "巫毒玩偶使你免于衰老死亡",
   "tombstone.message.enchant_voodoo_poppet.success": "巫毒玩偶正在保护你",
   "tombstone.message.enchant_voodoo_poppet.failed": "巫毒玩偶没有被封装任何保护能力",
-  "tombstone.message.disenchantment.success": "这本书褪去了这个物品的所有附魔",
+  "tombstone.message.disenchantment.success": "这本书褪去了这个物品的附魔",
   "tombstone.message.disenchantment.failed": "你需要把一个已附魔的物品放在副手",
   "tombstone.message.your_knowledge": "你的死亡知识",
   "tombstone.message.player_knowledge": "%s 的死亡知识",
