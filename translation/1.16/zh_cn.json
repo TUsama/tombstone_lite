@@ -600,7 +600,7 @@
   "tombstone.command.tbteleport.pos.usage": "传送到一个位置\nentity=实体，dim=维度\n/tbteleport pos [entity] <x> <y> <z> [dim]",
   "tombstone.command.tbteleport.player.usage": "传送到一个玩家处\nentity=实体，targetEntity=准心所指的实体\n/tbteleport player [entity] <targetEntity>",
   "tombstone.command.tbrestoreinventory.usage": "从最后一个已知坟墓中恢复玩家背包物品\nplayer=玩家\n/tbrestoreinventory [player]",
-  "tombstone.command.tbrecovery.usage": "为玩家备份和恢复\nsave_all_player=保存所有玩家存档，save_player=保存特定玩家存档，load_player=载入特定玩家存档，load_offline=离线载入存档，player=玩家，save=保存，uuid=UUID\n/tbrecovery <save_all_players|save_player <player>|load_player <player> [save]|load_offline <uuid> [save]",
+  "tombstone.command.tbrecovery.usage": "为玩家备份和恢复\nsave_all_player=保存所有玩家存档，save_player=保存特定玩家存档，load_player=载入特定玩家存档，load_offline=载入离线玩家存档，player=玩家，save=保存，uuid=UUID\n/tbrecovery <save_all_players|save_player <player>|load_player <player> [save]|load_offline <uuid> [save]",
   "tombstone.command.tbknowledge.usage": "调整玩家死亡知识\nplayer=玩家，show=显示，set=设置，give=给予，remove=扣除，amount=数值\n/tbknowledge <player> <show|set|give|remove> <amount>\n你可以通过这个指令重置安卡的冷却时间 /tbknowledge <player> reset_ankh",
   "tombstone.command.tbsiege.usage": "开始或停止在主世界对一个村庄的围攻\nstart=开始，stop=停止\n/tbsiege <start|stop>",
   "tombstone.command.tbrevivefamiliar.usage": "复活玩家最后一个死去的伙伴\nplayer=玩家\n/tbrevivefamiliar <player>",
