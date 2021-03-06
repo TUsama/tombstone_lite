@@ -589,7 +589,7 @@
   "tombstone.config.chance_random_poppet_on_boss.tooltip": "从亡灵生物的 BOSS 身上获得随机玩偶的概率（输入的数值除以1000才是最终概率）",
   "tombstone.config.chance_decorative_grave_on_boss.tooltip": "从亡灵生物的 BOSS 身上获得一个装饰性坟墓的概率（输入的数值除以1000才是最终概率）",
   "tombstone.config.treasure_loot_table.tooltip": "设置战利品表中包含墓碑模组中魔法物品的概率",
-  "tombstone.config.drop_only_on_player_kill.tooltip": "生物战利品中墓碑模组的魔法物品只有在生物被玩家击杀的情况下才会掉落",
+  "tombstone.config.drop_only_on_player_kill.tooltip": "墓碑模组的魔法物品只会在生物被玩家击杀的情况下才会以生物战利品的形式进行掉落",
   "tombstone.config_cat.compatibility": "兼容性",
   "tombstone.config_cat.compatibility.tooltip": "允许启用与其他模组相关的功能",
   "tombstone.config.keep_cosmetic_armor.tooltip": "当你死亡时保存身上的装备",
