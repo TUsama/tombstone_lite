@@ -505,7 +505,7 @@
   "tombstone.config.equip_elytra_in_priority": "优先装备鞘翅",
   "tombstone.config.equip_elytra_in_priority.tooltip": "在找回丢失物品时优先装上鞘翅",
   "tombstone.config.favorite_grave.tooltip": "最喜爱的坟墓",
-  "tombstone.config.favorite_grave_marble.tooltip": "最喜爱的大理石墓碑",
+  "tombstone.config.favorite_grave_marble.tooltip": "最喜爱的大理石坟墓",
   "tombstone.config.show_info_on_enchantment": "显示附魔的详细信息",
   "tombstone.config.show_info_on_enchantment.tooltip": "在工具提示栏中显示墓碑模组附魔的用法",
   "tombstone.config.grave_skin_rule": "坟墓皮肤",
