@@ -431,7 +431,7 @@
   "tombstone.config.no_grave_location": "不生成坟墓的区域",
   "tombstone.config.no_grave_location.tooltip": "坟墓无法在这些区域生成",
   "tombstone.config.chance_mob_on_grave_recovery.tooltip": "生物在取回坟墓的物品后出现的几率",
-  "tombstone.config.pvp_模组e.tooltip": "启用 pvp 模式，启用的同时将允许玩家打开被他们杀死的玩家的坟墓",
+  "tombstone.config.pvp_mode.tooltip": "启用 pvp 模式，启用的同时将允许玩家打开被他们杀死的玩家的坟墓",
   "tombstone.config.knowledge_loss.tooltip": "死亡后死亡知识的丢失",
   "tombstone.config.loss_on_death_only_for_abandoned_grave.tooltip": "只有被遗弃的坟墓才会有被丢失的物品（遗弃的判定基于 decay_time）",
   "tombstone.config.loss_on_death_only_for_stackable_items.tooltip": "只有可堆叠的物品才会在死亡时丢失",
