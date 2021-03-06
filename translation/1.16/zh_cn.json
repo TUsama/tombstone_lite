@@ -454,7 +454,7 @@
   "tombstone.config.points_pray_of_protection.tooltip": "祈祷保护的点数",
   "tombstone.config_cat.general": "常规",
   "tombstone.config_cat.general.tooltip": "其他选项",
-  "tombstone.config.chance_enchanted_grave_key.tooltip": "玩家死亡后获得附魔的坟墓的钥匙的概率",
+  "tombstone.config.chance_enchanted_grave_key.tooltip": "玩家死亡后获得附魔的坟墓之钥的概率",
   "tombstone.config.teleport_dim.tooltip": "是否允许传送到其他维度",
   "tombstone.config.ghostly_shape_duration.tooltip": "死亡后幽灵形态的持续时间（秒）",
   "tombstone.config.nerf_ghostly_shape.tooltip": "是否取消玩家在幽灵形态下的挖掘和打开箱子的权限",
