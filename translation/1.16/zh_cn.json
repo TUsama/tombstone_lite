@@ -111,7 +111,7 @@
   "tombstone.tooltip.actual_bonus": "当前概率：%d%%",
   "tombstone.message.engravable": "在铁砧上消耗 1 个 %s 可为其雕刻",
   "tombstone.message.engraved": "其上碑文清晰可读：%s",
-  "tombstone.message.engraved_item": "刻着 %s",
+  "tombstone.message.engraved_item": "已铭刻的 %s",
   "tombstone.message.enchanted_item": "附魔的 %s",
   "tombstone.message.ancient_item": "古老的 %s",
   "tombstone.message.impregnate": "填充着 %s 的精华",
